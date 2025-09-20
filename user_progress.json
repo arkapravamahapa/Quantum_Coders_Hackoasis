@@ -1,0 +1,52 @@
+{
+    "What is the capital of France?": {
+        "question": "What is the capital of France?",
+        "answer": "Paris",
+        "repetitions": 0,
+        "interval": 1,
+        "ease_factor": 2.3,
+        "last_reviewed": "2025-09-20T11:22:26.948768",
+        "next_review": "2025-09-21T11:22:26.948781",
+        "grade": "Again"
+    },
+    "What is the formula for the area of a circle?": {
+        "question": "What is the formula for the area of a circle?",
+        "answer": "A = \u03c0r\u00b2",
+        "repetitions": 0,
+        "interval": 1,
+        "ease_factor": 2.3,
+        "last_reviewed": "2025-09-20T11:22:27.024131",
+        "next_review": "2025-09-21T11:22:27.024138",
+        "grade": "Again"
+    },
+    "In which year did the first human land on the moon?": {
+        "question": "In which year did the first human land on the moon?",
+        "answer": "1969",
+        "repetitions": 0,
+        "interval": 1,
+        "ease_factor": 2.3,
+        "last_reviewed": "2025-09-20T11:22:27.090928",
+        "next_review": "2025-09-21T11:22:27.090935",
+        "grade": "Again"
+    },
+    "What is the main function of a white blood cell?": {
+        "question": "What is the main function of a white blood cell?",
+        "answer": "To fight infections",
+        "repetitions": 0,
+        "interval": 1,
+        "ease_factor": 2.3,
+        "last_reviewed": "2025-09-20T11:22:27.159673",
+        "next_review": "2025-09-21T11:22:27.159680",
+        "grade": "Again"
+    },
+    "What is the process by which plants make their own food?": {
+        "question": "What is the process by which plants make their own food?",
+        "answer": "Photosynthesis",
+        "repetitions": 0,
+        "interval": 1,
+        "ease_factor": 2.3,
+        "last_reviewed": "2025-09-20T11:22:27.216368",
+        "next_review": "2025-09-21T11:22:27.216375",
+        "grade": "Again"
+    }
+}
